@@ -1,3 +1,7 @@
 print("Hola Mundo")
-nombre = input("Escribe el nombre: ")
-print(f"Nombre: {nombre}")
+
+def Mostrarnombre():
+    input("Presiona Enter para continuar...")
+    print("Mi nombre es Roberto")
+
+Mostrarnombre()
