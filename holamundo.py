@@ -1,4 +1,4 @@
 print("Hola Mundo")
 
-nombre = input("Agrega tu nombre :")
-print(nombre)
+nombre = input("Escribe el nombre: ")
+print(f"Nombre: {nombre}")
