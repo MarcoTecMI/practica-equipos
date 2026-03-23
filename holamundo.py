@@ -1,4 +1,4 @@
 print("Hola Mundo")
 
-nombre = "Edgar Alvarado"
+nombre = input("Agrega tu nombre :")
 print(nombre)
